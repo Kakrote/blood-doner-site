@@ -10,7 +10,7 @@ body{
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: url(https://images.unsplash.com/photo-1638272467190-4ff6f773315c?auto=format&fit=crop&q=80&w=1615&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D) no-repeat;
+    background: url(https://plus.unsplash.com/premium_photo-1681488489639-2b8ed629bffd?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D) no-repeat;
     background-size: cover;
     background-position: center;
 
@@ -41,7 +41,7 @@ header{
     top: 20px;
     left:45px;
     /* position: fixed; */
-    height: 20px;
+    /* height: 20px; */
     width: 20px;
     /* overflow: hidden; */
     background: transparent;

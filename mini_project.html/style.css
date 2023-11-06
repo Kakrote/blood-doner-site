@@ -5,7 +5,7 @@
 }
 body{
     min-height: 100vh;
-    background: url(https://images.unsplash.com/photo-1638272467190-4ff6f773315c?auto=format&fit=crop&q=80&w=1615&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D) no-repeat;
+    background: url(https://images.unsplash.com/photo-1536856136534-bb679c52a9aa?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D) no-repeat;
     background-size: cover;
     background-position: center;
 
@@ -36,6 +36,7 @@ header{
 .btn-list li{
     /* margin-left: 20px; */
     margin: 20px 50px;
+    list-style: none;
 }
 .pro-btn{
     width:130px ;
@@ -50,6 +51,6 @@ header{
     color: #fff;
 }
 .pro-btn:hover{
-    color: rgb(13, 40, 68);
-    background-color: #8b2424;
+    color:black;
+    background-color:#fff;
 }
